@@ -7,7 +7,7 @@ const baseApiUrl = async () => {
 };
 
 module.exports.config = {
-  name: "সুমি",
+  name: "রিয়া",
   version: "6.9.0",
   permission: 0,
   credits: "nazrul",
